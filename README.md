@@ -1,6 +1,8 @@
 # ec
 Nota: 7.
-Gl con este proyecto.
+
+Gl con este proyecto jodido.
+
 
 # Datos
 Con tiene el código, como la parte de pruebas y la memoria adjunta.
