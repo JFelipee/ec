@@ -1,7 +1,6 @@
 # ec
-Nota: 7.
-
-Gl con este proyecto jodido.
+Pasan todas las pruebas por ahora.
+Filtror.ens es el fichero del proyecto.
 
 
 # Datos
