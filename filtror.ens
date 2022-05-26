@@ -1,7 +1,6 @@
 ; *****************************
 ; *** Declaracion de MACROS ***
 ; *****************************
-
 LEA:	MACRO (ra, etiq)
 		
 		or		ra, r0, low(etiq)
